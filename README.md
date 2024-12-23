@@ -4,6 +4,8 @@
 
 [Preliminary Architecture and Design](https://github.com/FrugalX/multi-agent-docs/blob/main/Prelim%20Architeture.md)
 
-[ebook draft](https://github.com/FrugalX/multi-agent-docs/blob/main/ebook%20draft/README.md)
-
 [Getting Started](https://github.com/FrugalX/multi-agent-docs/blob/main/Getting%20Started.md)
+
+---
+
+[ebook draft](https://github.com/FrugalX/multi-agent-docs/blob/main/ebook%20draft/README.md)

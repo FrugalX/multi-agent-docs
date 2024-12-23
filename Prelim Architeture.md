@@ -1,4 +1,4 @@
-# Appendix: Preliminary Architecture and Design
+# Preliminary Architecture and Design
 
 ## Core Components
 
