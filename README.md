@@ -6,7 +6,7 @@
 
 [Getting Started](https://github.com/FrugalX/multi-agent-docs/blob/main/Getting%20Started.md)
 
-[Project Execution Plan](https://github.com/FrugalX/multi-agent-docs/blob/main/Project%20Execution%20Plan%20Overview.md)
+[Project Execution Plan](https://github.com/FrugalX/multi-agent-docs/blob/main/Project%20Execution%20Plan.md)
 
 [Key components notes](https://github.com/FrugalX/multi-agent-docs/tree/main/components-docs)
 

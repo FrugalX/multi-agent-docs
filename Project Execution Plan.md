@@ -18,19 +18,7 @@ This document outlines an iterative approach to building the "Self-Orchestrated 
 
 ---
 
-### Iteration 2: Task Manager
-1. **Basic Task Manager Implementation**
-   - Define a schema for tasks (task ID, description, status).
-   - Implement a backend API to create, update, and fetch tasks.
-   - Display a task list on the front-end with basic CRUD operations.
-
-2. **Enhance Task Management**
-   - Add status tracking (e.g., pending, in-progress, completed).
-   - Introduce priority levels or deadlines for tasks.
-
----
-
-### Iteration 3: Intelligent Task Decomposition Engine
+### Iteration 2: Intelligent Task Decomposition Engine
 1. **LLM-Based Task Analysis**
    - Implement a module that sends high-level task descriptions to the LLM API for decomposition.
    - Return a list of sub-tasks with brief descriptions.
@@ -41,7 +29,7 @@ This document outlines an iterative approach to building the "Self-Orchestrated 
 
 ---
 
-### Iteration 4: Dynamic Agent Creator
+### Iteration 3: Dynamic Agent Creator
 1. **Static Agent Prototypes**
    - Develop prototype agents that can perform specific tasks (e.g., text summarization, translation).
    - Test agents in isolation to verify their functionality.
@@ -56,7 +44,7 @@ This document outlines an iterative approach to building the "Self-Orchestrated 
 
 ---
 
-### Iteration 5: Event-Driven Workflow Engine
+### Iteration 4: Event-Driven Workflow Engine
 1. **Event Listener Implementation**
    - Define a schema for events (event ID, type, payload).
    - Implement an event queue system (e.g., in-memory or using a database).
@@ -69,6 +57,18 @@ This document outlines an iterative approach to building the "Self-Orchestrated 
 3. **Workflow Coordination**
    - Implement logic to handle task dependencies and event propagation.
    - Test end-to-end workflows involving multiple agents.
+
+---
+
+### Iteration 5: Task Manager
+1. **Basic Task Manager Implementation**
+   - Define a schema for tasks (task ID, description, status).
+   - Implement a backend API to create, update, and fetch tasks.
+   - Display a task list on the front-end with basic CRUD operations.
+
+2. **Enhance Task Management**
+   - Add status tracking (e.g., pending, in-progress, completed).
+   - Introduce priority levels or deadlines for tasks.
 
 ---
 
