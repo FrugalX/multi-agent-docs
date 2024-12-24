@@ -6,6 +6,8 @@
 
 [Getting Started](https://github.com/FrugalX/multi-agent-docs/blob/main/Getting%20Started.md)
 
+[Project Execution Plan]()
+
 [Key components notes](https://github.com/FrugalX/multi-agent-docs/tree/main/components-docs)
 
 [ebook draft](https://github.com/FrugalX/multi-agent-docs/blob/main/ebook%20draft/README.md)
