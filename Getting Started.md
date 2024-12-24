@@ -139,8 +139,8 @@ Once you’re comfortable with basic API usage:
 ## Resources
 
 - [Google Cloud Vertex AI](https://cloud.google.com/vertex-ai)
-- [Hugging Face Models](https://huggingface.co/models)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [Hugging Face Llama3](https://huggingface.co/docs/transformers/en/model_doc/llama3)
+- [Hugging Face JS Libraries](https://huggingface.co/docs/huggingface.js/en/index)
 - [AutoGPT GitHub Repository](https://github.com/Torantulino/Auto-GPT)
 
 ---
